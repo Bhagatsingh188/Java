@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.9">
+    <archive path="/Users/sharonk/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.9.9/jackson-databind-2.9.9.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0">
+    <archive path="/Users/sharonk/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.9">
+    <archive path="/Users/sharonk/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.9.9/jackson-core-2.9.9.jar" />
+  </library>
+  <library name="Python 3.7 interpreter library">
+    <archive path="/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
+    <archive path="/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
+    <archive path="/usr/local/lib/python3.7/site-packages" />
+    <archive path="/Users/sharonk/Library/Caches/IdeaIC2018.2/python_stubs/-1199943126" />
+    <archive path="/Users/sharonk/Library/Application Support/IdeaIC2018.2/python-ce/helpers/python-skeletons" />
+    <archive path="/Users/sharonk/Library/Application Support/IdeaIC2018.2/python-ce/helpers/typeshed/stdlib/3.4" />
+    <archive path="/Users/sharonk/Library/Application Support/IdeaIC2018.2/python-ce/helpers/typeshed/stdlib/3" />
+    <archive path="/Users/sharonk/Library/Application Support/IdeaIC2018.2/python-ce/helpers/typeshed/stdlib/2and3" />
+    <archive path="/Users/sharonk/Library/Application Support/IdeaIC2018.2/python-ce/helpers/typeshed/third_party/3" />
+    <archive path="/Users/sharonk/Library/Application Support/IdeaIC2018.2/python-ce/helpers/typeshed/third_party/2and3" />
+  </library>
+</eclipse-userlibraries>
+
